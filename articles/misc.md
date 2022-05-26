@@ -2,10 +2,16 @@
 |-|-|
 |提問的智慧|https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way|
 |How To Ask Questions The Smart Way|http://www.catb.org/~esr/faqs/smart-questions.html|
+|How to Learn to Code - 8 Hard Truths|https://www.youtube.com/watch?v=NtfbWkxJTHw|
 |100+ Computer Science Concepts Explained|https://www.youtube.com/watch?v=-uleG_Vecis|
+|Reacting to Controversial Opinions of Software Engineers|https://www.youtube.com/watch?v=goy4lZfDtCE|
 |Leslie Lamport: Thinking Above the Code|https://www.youtube.com/watch?v=-4Yp3j_jk8Q|
+|20 Things I’ve Learned in my 20 Years as a Software Engineer|https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/|
+|20 年軟體工程生涯所學到的 20 件事 (摘譯，有條件請看上方原文)|https://blog.gcos.me/post/2022-04-03_20-things-ive-learned-in-my-20-years-as-a-software-engineer/|
+|Object-Oriented Programming is Bad|https://www.youtube.com/watch?v=QM1iUe6IofM|
 |Design Patterns for Humans (zh-cn)|https://github.com/Leon0X/design-patterns-for-humans-cn|
 |Design Patterns for Humans|https://github.com/kamranahmedse/design-patterns-for-humans|
+|Give me /events, not webhooks|https://blog.sequin.io/events-not-webhooks/|
 |代码安全指南|https://github.com/Tencent/secguide|
 |品读 Linux 0.11 核心代码|https://github.com/sunym1993/flash-linux0.11-talk|
 |Regex Learn - 逐步从零基础到高阶。|https://regexlearn.com/zh-cn|
