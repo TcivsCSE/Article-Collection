@@ -11,6 +11,7 @@
 |Object-Oriented Programming is Bad|https://www.youtube.com/watch?v=QM1iUe6IofM|
 |Design Patterns for Humans (zh-cn)|https://github.com/Leon0X/design-patterns-for-humans-cn|
 |Design Patterns for Humans|https://github.com/kamranahmedse/design-patterns-for-humans|
+|Return Early Pattern|https://medium.com/swlh/return-early-pattern-3d18a41bba8|
 |Give me /events, not webhooks|https://blog.sequin.io/events-not-webhooks/|
 |代码安全指南|https://github.com/Tencent/secguide|
 |品读 Linux 0.11 核心代码|https://github.com/sunym1993/flash-linux0.11-talk|
