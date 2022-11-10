@@ -20,7 +20,7 @@
 |品读 Linux 0.11 核心代码|https://github.com/sunym1993/flash-linux0.11-talk|
 |Regex Learn - 逐步从零基础到高阶。|https://regexlearn.com/zh-cn|
 |怎麼優化你的程式(C++篇)|https://horikitacoding.blogspot.com/2019/07/how-to-optimize-your-code-in-c.html|
-|labuladong 的算法小抄|https://github.com/labuladong/fucking-algorithm|
+|labuladong 的算法小抄 ⭐|https://github.com/labuladong/fucking-algorithm|
 |awesome|https://github.com/sindresorhus/awesome|
 |Awesome Productivity (zh-cn)|https://github.com/eastlakeside/awesome-productivity-cn|
 |HelloGitHub ⭐|https://github.com/521xueweihan/HelloGitHub|
